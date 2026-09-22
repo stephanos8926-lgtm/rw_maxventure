@@ -1,0 +1,6 @@
+{
+  "name": "Paperclip Enterprise Simulator",
+  "description": "Autonomous multi-agent enterprise orchestration platform where users act as CEO, bootstrapping a virtual company from concept to execution with AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
